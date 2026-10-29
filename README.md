@@ -17,4 +17,6 @@ The greatest cross-platform sync app you will ever experience. You'll switch fro
 ## Features
 **Quick Notification Push**: Pushes notifications from your Android to your Mac, Linux PC, and Windows PC.
 <br>
+**Memory Sync**: Photos/Videos access from other devices. It does not move any Photos/Videos from the device, it just accesses the photos from the device and shows them on your screen.
+<br>
 *More features later...*
